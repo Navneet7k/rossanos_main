@@ -1,7 +1,8 @@
 {
     "name": "Rosannos",
     "short_name": "Rosannos",
-    "start_url": ".",
+    "start_url": "/rossanos_main/",
+    "scope": "/rossanos_main/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
